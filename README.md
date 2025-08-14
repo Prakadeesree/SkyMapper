@@ -1,9 +1,10 @@
 🌐 Sky Mappers
-Sky Mappers is a full-stack geospatial intelligence platform that allows users to upload aerial or satellite imagery and perform semantic segmentation to detect key infrastructure and land-use features using AI.
+  Sky Mappers is a full-stack geospatial intelligence platform that allows users to upload aerial or satellite imagery and perform semantic segmentation to detect key infrastructure and land-use features using AI.
 
 🧠 What It Can Detect
 
 Sky Mappers can segment:
+
 🏢 Buildings
 🛣️ Roads
 🌊 Water Bodies
@@ -13,6 +14,8 @@ Tiled Roofs
 Asbestos Sheets
 
 📦 Key Features
+
+
 📤 Upload drone/satellite images
 🎯 Choose target feature to segment
 🧠 Server-side AI performs semantic segmentation
